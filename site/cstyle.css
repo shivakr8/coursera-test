@@ -1,0 +1,50 @@
+*
+1{
+    background-color: chocolate;
+    color: #000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h2{
+    background-color: cyan;
+    color:red;
+    font-family: serif;
+}
+p span{
+    background-image: -moz-element();
+    background-color: green;
+    color:darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+.intro{
+    
+    background-image:url(../site/own.jpg);
+    align-content: flex-end;
+    background-color: rgb(245, 242, 239);
+    width: 900px;
+    height: 900px;
+    background-repeat: no-repeat;
+    
+}
+.intro h1 {
+    border-top: thin;
+    border-color: #a7c315;
+    border-left-style: double;
+    border-right-style:dotted;
+    border-bottom: thin;
+    padding: 50px;
+    
+}
+.intro button{
+    background-color: crimson;
+    color: #000;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 15px;
+    margin: 50px;
+}
+.intro img{
+    margin: 120px;
+}
